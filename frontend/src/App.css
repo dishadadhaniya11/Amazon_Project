@@ -1,0 +1,27 @@
+.fa-search{
+  position: relative; 
+  left: -25px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.fa-star-half-stroke{
+  color: yellowgreen;
+}
+.fa-star{
+  color: yellowgreen;
+}
+.buy-now-btn:hover{
+background-color:#0B5ED7;
+color: white!important;
+}
+.register-btn:hover{
+  background-color: white;
+  color: #0B5ED7;
+  border: 1px solid #0B5ED7;
+}
+.card-header{
+  background-color:hsl(216, 90%, 44%,0.4);
+}
+
